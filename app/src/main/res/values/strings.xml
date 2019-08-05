@@ -20,4 +20,11 @@
     <string name="logo">SAL logo</string>
     <string name="error_correct_credentials">Please use Correct Credential!</string>
     <string name="logout">Logout</string>
+    <string name="welcomw_to_sal">Welcomw to SAL</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string name="button">Button</string>
+    <string name="todo">Im</string>
+    <string name="button">Button</string>
+    <color name="mint_blue">#A3FBFB</color>
 </resources>
